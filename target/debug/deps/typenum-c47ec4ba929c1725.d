@@ -1,0 +1,18 @@
+/home/user/programming/zero_to_production/zero2prod/target/debug/deps/typenum-c47ec4ba929c1725.rmeta: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /home/user/programming/zero_to_production/zero2prod/target/debug/build/typenum-36c01e29180f3846/out/op.rs /home/user/programming/zero_to_production/zero2prod/target/debug/build/typenum-36c01e29180f3846/out/consts.rs
+
+/home/user/programming/zero_to_production/zero2prod/target/debug/deps/typenum-c47ec4ba929c1725.d: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /home/user/programming/zero_to_production/zero2prod/target/debug/build/typenum-36c01e29180f3846/out/op.rs /home/user/programming/zero_to_production/zero2prod/target/debug/build/typenum-36c01e29180f3846/out/consts.rs
+
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs:
+/home/user/programming/zero_to_production/zero2prod/target/debug/build/typenum-36c01e29180f3846/out/op.rs:
+/home/user/programming/zero_to_production/zero2prod/target/debug/build/typenum-36c01e29180f3846/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/home/user/programming/zero_to_production/zero2prod/target/debug/build/typenum-36c01e29180f3846/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/home/user/programming/zero_to_production/zero2prod/target/debug/build/typenum-36c01e29180f3846/out/op.rs
