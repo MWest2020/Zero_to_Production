@@ -336,6 +336,12 @@ dependencies = [
 ]
 
 [[package]]
+name = "cargo-lint"
+version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "563f04acd9d40c2fd3185a642070724fa3a0908adb5f50b39e4d2be7996f000c"
+
+[[package]]
 name = "cc"
 version = "1.0.73"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -517,12 +523,9 @@ dependencies = [
 
 [[package]]
 name = "dotenvy"
-version = "0.15.5"
+version = "0.15.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ed9155c8f4dc55c7470ae9da3f63c6785245093b3f6aeb0f5bf2e968efbba314"
-dependencies = [
- "dirs",
-]
+checksum = "03d8c417d7a8cb362e0c37e5d815f5eb7c37f79ff93707329d5a194e42e54ca0"
 
 [[package]]
 name = "either"
@@ -2306,8 +2309,10 @@ name = "zero2prod"
 version = "0.1.0"
 dependencies = [
  "actix-web",
+ "cargo-lint",
  "chrono",
  "config",
+ "dotenvy",
  "once_cell",
  "reqwest",
  "secrecy",
